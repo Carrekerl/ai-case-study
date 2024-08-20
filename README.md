@@ -1,4 +1,4 @@
-# Module 1 Challenge AI Case Study on Raycon
+# AI Case Study on Raycon
 
 
 ## Overview and Origin 
