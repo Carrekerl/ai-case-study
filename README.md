@@ -59,6 +59,4 @@ If I were to advise Raycon of a product or service for them to offer, I would re
 - Business Insider. (2023). "AI in Customer Service: Raycon’s Approach." Retrieved from  [Business Insider Website].
 
 
-* What technologies would this additional product or service utilize?
 
-* Why are these technologies appropriate for your solution?
