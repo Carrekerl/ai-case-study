@@ -2,7 +2,10 @@
 
 
 ## Overview and Origin 
-
+<div>
+  <div align="center">
+    <img width="50%" src="logo-raycon-black-250x-1.png" alt="Sample image compressed 50%" title="Sample image compressed 50%">
+</div>
 
 Raycon, founded by Raymond Norwood also known as Ray J who is a singer and entrepreneur and his business partner Jamarcus Rogers also known as JR in November of 2017. Raycon, has become a major consumer electronics company known for its innovative audio products, particularly wireless earbuds. Over the years, Raycon has established itself as a significant player in the audio market, blending style, performance, and affordability. Recently, the company has started integrating artificial intelligence (AI) technology to enhance its product offering more operational efficiency.
 
